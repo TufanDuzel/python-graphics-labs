@@ -20,4 +20,4 @@ This repository contains various Python projects focused on computer graphics. T
 ## 📌 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/python-graphics-labs.git
+   git clone https://github.com/TufanDuzel/python-graphics-labs.git
